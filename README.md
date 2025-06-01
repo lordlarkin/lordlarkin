@@ -1,3 +1,4 @@
+![logo](https://github.com/lordlarkin/lordlarkin/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm parsa taheri</h1>
 <h3 align="center">- A software engineer passionate about backend architecture and cybersecurity</h3>
 
